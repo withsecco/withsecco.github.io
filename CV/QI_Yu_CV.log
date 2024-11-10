@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.1.21)  10 NOV 2024 16:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.1.21)  10 NOV 2024 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/qiyu/Desktop/resume/CV/QI_Yu_CV
-(/Users/qiyu/Desktop/resume/CV/QI_Yu_CV.tex
+**/Users/qiyu/withsecco.github.io/CV/QI_Yu_CV
+(/Users/qiyu/withsecco.github.io/CV/QI_Yu_CV.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -606,18 +606,21 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 158.
 \ANDbox=\box67
-[1
+
+Overfull \vbox (7.58545pt too high) has occurred while \output is active []
+
+ [1
 
 ] [2] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./QI_Yu_CV.aux) ) 
 Here is how much of TeX's memory you used:
  17338 strings out of 476683
- 349471 string characters out of 5804047
+ 349486 string characters out of 5804047
  1874018 words of memory out of 5000000
  37362 multiletter control sequences out of 15000+600000
  516078 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,7n,81p,367b,487s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,81p,372b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on QI_Yu_CV.pdf (2 pages).
